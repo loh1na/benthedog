@@ -24,5 +24,5 @@ async def on_message(message):
 
 
 # start bot
-client.run('OTUwNjg4MTAxNDA2MjEyMTU2.YicjSg.8c_SbpEAhbOKaTSI8R-VzNPDRoo')
+client.run('')#<- token goes here
 
